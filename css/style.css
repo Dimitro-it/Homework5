@@ -1,0 +1,158 @@
+.rop {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box; 
+    display: inline-block;
+    border-radius: 20px;
+}
+
+img {
+    max-width: 100%;
+    padding: 10px 0 0 30px;
+    margin: 0 0 0 0;
+}
+
+h1 {
+    margin: 0 0 0 0;
+    padding: 0 0 0 30px;
+}
+
+p {
+    text-align: center;
+    padding: 0 20px 0 20px;
+    margin: 5px 0 5px 0;
+}
+
+.pic {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px; 
+}
+
+.ero {
+    width: 110px;
+    padding: 10px 0 0 40px;
+}
+
+.rop {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.tor {
+    width: 110px;
+    padding: 10px 0 0 40px;
+}
+
+.pop {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block; 
+    border-radius: 20px;
+}
+
+.wer {
+    width: 110px;
+    padding: 10px 0 0 40px; 
+}
+
+.red {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.ser {
+    width: 110px;
+    padding: 10px 0 0 40px;  
+}
+
+.ter {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.sex {
+    width: 130px;
+    padding: 10px 0 0 30px; 
+      
+}
+
+.dor {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.qer {
+    width: 110px;
+    padding: 10px 0 0 40px; 
+}
+
+.ted {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.sup {
+    width: 110px;
+    padding: 10px 0 0 40px;
+}
+
+.pum {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.dir {
+    width: 110px;
+    padding: 10px 0 0 40px; 
+}
+
+.hok {
+    border: 5px solid black;
+    margin: 10px 10px;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline-block; 
+    border-radius: 20px;
+    box-shadow: 30px;
+}
+
+.sok {
+    width: 120px;
+    padding: 10px 0 0 40px;  
+}
+
+.container {
+    flex:10px;
+}
+
